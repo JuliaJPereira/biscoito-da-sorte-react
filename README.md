@@ -4,4 +4,4 @@ Projeto _Biscoito da Sorte_ desenvolvido em React para fins de estudos e aperfei
 
 ## Prewiew
 
-[![]()]()
+[![](https://github.com/JuliaJPereira/biscoito-da-sorte-react/blob/master/src/assets/gif.gif)]()
