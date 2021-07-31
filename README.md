@@ -1,6 +1,6 @@
 # BISCOITO DA SORTE
 
-Projeto _Biscoito da Sorte_ foi desenvolvido em React para fins de estudos e aperfeiçoamento.
+Projeto de estudo, desenvolvido em **React**, que realizei com o intuito de praticar o uso das **states** e também utilizar as funções **Math.floor** e **Math.random** para sortear as frases do biscoito da sorte.
 
 ## Prewiew
 
